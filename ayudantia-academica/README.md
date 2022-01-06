@@ -106,4 +106,4 @@ Y en adjunto vendrá tu constancia que certifica tu ayudantia académica realiza
 
 ## Y... ahora que?
 
-Bueno, ya que tienes la constancia, guárdala. Ya que requieres tambien haber completado tus actividades diversas para inciar el tramite de validacion de creditos en orce.
+Bueno, ya que tienes la constancia, guárdala. Ya que requieres tambien haber completado tus [actividades diversas](/actividades-diversas) para inciar el tramite de validacion de creditos en orce.
