@@ -60,3 +60,32 @@ Luego de unos dias de recibir la confirmacion por parte de escuelas deberias rec
 
 ![](ayudantia-academica-1.png)
 
+El formato de ayudantia académica seria como el siguiente:
+
+![](ayudantia-academica-2.png)
+
+El cual es un documento en word que tiene que llenar, dependiendo de las horas y clases que vaya asistiendo.
+
+**El horario en el cual deba asistir a las clases del profesor depende de como se coordine con el docente, y la manera en la cual va a realizar las ayudantias.**
+
+**NOTA: Recuerde que la cantidad de horas totales que debe cumplir son igual o mayor a 44 horas.**
+
+## Luego de completar la ayudantia
+
+Luego de completar las horas que se requieren de ayudantia, comunicate con tu profesor y solicitale que firme tu formato de ayudantia previamente llenado.
+
+Luego de que lo firme, el profesor debe enviar este documento a escuelas(escuelas_fc2@uni.edu.pe) para que realicen la validación y te emitan una constancia de ayudantia académica.
+
+## Correo con la constancia
+
+Luego de unos dias recibiras un correo con la siguiente estructura:
+
+![](ayudantia-academica-3.png)
+
+Y en adjunto vendrá tu constancia que certifica tu ayudantia académica realizada. 
+
+![](ayudantia-academica-4.png)
+
+## Y ahora que?
+
+Bueno, ya que tienes la constancia, guárdala. Ya que requieres tambien haber completado tus actividades diversas para inciar el tramite de validacion de creditos en orce.
