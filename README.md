@@ -1,4 +1,4 @@
-# Documentacion Tramites UNI
+# Documentacion Tramites UNI y otras dudas
 
 Aqui explicare sobre algunos tramites o documentos que hay que enviar, para que no me vuelvan a preguntar.
 
@@ -10,4 +10,6 @@ Aqui explicare sobre algunos tramites o documentos que hay que enviar, para que 
 
 - [Practicas Pre-Profesionales](/practicas-pre)
 
-  
+## Proyecto de Tesis
+
+- [Lo que debes saber antes de llevar proyecto de tesis](/tesis)
