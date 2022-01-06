@@ -6,7 +6,19 @@ permalink: /ayudantia-academica/
 
 # Ayudantia Academica
 
-Aunque esta figure como un curso en tu malla curricular, este curso se valida. Esto quiere decir que no figura en el proceso de matricula.
+NOTA: Aunque esta figure como un curso en tu malla curricular, este curso se valida. Esto quiere decir que no figura en el proceso de matricula.
+
+**Indice**
+
+- [Empecemos](#empecemos)
+- [Habla con el profesor](#habla-con-el-profesor)
+- [Comunícate con escuelas](#comun-cate-con-escuelas)
+- [Formato de ayudantia](#formato-de-ayudantia)
+- [Luego de completar la ayudantia](#luego-de-completar-la-ayudantia)
+- [Correo con la constancia](#correo-con-la-constancia)
+- [Y... ahora que?](#y-ahora-que-)
+
+## Empecemos
 
 Entonces, desde que momento puedes empezar ya  a planear tu ayudantia academica?. 
 
@@ -19,6 +31,8 @@ Entonces que debes tener en cuenta:
 - La mayoria de profesores tienen un solo ayudante en su curso, y si alguien ya le pidio hacer ayudantia con el, tu no tendras la posibilidad.
 - Empieza buscando un curso donde te haya ido bien o que domines (por si el profesor te pide que dictes algunas clases o realices uno que otro trabajo).
 - Dependiendo del profesor puede que te deje mas tarea o menos tarea como ayudante.
+
+## Habla con el profesor
 
 Cuando ya tengas claro a que profesor pedirle para realizar tu ayudantia, debes escribirle por correo uni o celular (de ser el caso) para que te permita realizar ayudantias con el.
 
@@ -40,6 +54,8 @@ El correo podria tener una estructura como:
 
 Luego de recibir la confirmación de parte del profesor, escriba un correo a escuelas indicándole la informacion sobre su ayudantia.
 
+## Comunícate con escuelas
+
 El correo podria tener una estructura como
 
 - Asunto: AYUDANTIA ACADÉMICA
@@ -55,6 +71,8 @@ El correo podria tener una estructura como
   
   Saludos cordiales,
   ```
+
+## Formato de ayudantia
 
 Luego de unos dias de recibir la confirmacion por parte de escuelas deberias recibir un correo como el siguiente. Con un formulario de google que debes llenar y adjuntado el formato de ayudantia.
 
@@ -86,6 +104,6 @@ Y en adjunto vendrá tu constancia que certifica tu ayudantia académica realiza
 
 ![](ayudantia-academica-4.png)
 
-## Y ahora que?
+## Y... ahora que?
 
 Bueno, ya que tienes la constancia, guárdala. Ya que requieres tambien haber completado tus actividades diversas para inciar el tramite de validacion de creditos en orce.
